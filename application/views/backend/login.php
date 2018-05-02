@@ -113,7 +113,8 @@
                             </form>
 
                             <div class="col-lg-12 m-t-8">
-                                <a class="" href="<?php echo base_url();?>login/forgotPassword">Forgot Password?</a>
+                            <?php //echo base_url();?><!-- index.php/login/forgotPassword -->
+                                <a class="" href="">Forgot Password?</a>
                             </div>
                         </div>
                     </div>
